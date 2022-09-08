@@ -10,11 +10,11 @@
             android:title="@string/Audio" />
         <item
             android:id="@+id/nav_read"
-            android:icon="@drawable/read"
-            android:title="@string/menu_gallery" />
+            android:icon="@drawable/study"
+            android:title="@string/Read" />
         <item
             android:id="@+id/nav_write"
-            android:icon="@drawable/write"
-            android:title="@string/menu_slideshow" />
-    </group>
+            android:icon="@drawable/writee"
+            android:title="@string/Write" />
+    </group>write
 </menu>
